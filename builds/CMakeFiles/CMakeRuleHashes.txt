@@ -1,0 +1,21 @@
+# Hashes of file build rules.
+99b1e532b96e3fcc5e272f3db4a79a9d raylib/CMakeFiles/uninstall
+aad66cdadf9bfc896a07c195fc7f97b0 raylib/raylib/external/glfw/src/CMakeFiles/update_mappings
+817b860e49047c2746e8491a9340c412 raylib/raylib/external/glfw/src/fractional-scale-v1-client-protocol-code.h
+ae2d4a33ab69b501dd643709646ca0fa raylib/raylib/external/glfw/src/fractional-scale-v1-client-protocol.h
+5700b107bd8062d61e7776ed75f3b82a raylib/raylib/external/glfw/src/idle-inhibit-unstable-v1-client-protocol-code.h
+eb08794cdf1b4dc6e38dbb2a3a9c5040 raylib/raylib/external/glfw/src/idle-inhibit-unstable-v1-client-protocol.h
+4a01cf87ac9b206effb5fbde13b66778 raylib/raylib/external/glfw/src/pointer-constraints-unstable-v1-client-protocol-code.h
+d0a4513e3a4be69ed9976b2d850554b8 raylib/raylib/external/glfw/src/pointer-constraints-unstable-v1-client-protocol.h
+cba15d7b7e59c22ca8fad2fb82b4b7b0 raylib/raylib/external/glfw/src/relative-pointer-unstable-v1-client-protocol-code.h
+792f2a8b551c2b7fd375917a2310f809 raylib/raylib/external/glfw/src/relative-pointer-unstable-v1-client-protocol.h
+56d22c5df9a2a2aca8382eb5d11d172d raylib/raylib/external/glfw/src/viewporter-client-protocol-code.h
+6e926d493378bba0f8280c1ca0d84caf raylib/raylib/external/glfw/src/viewporter-client-protocol.h
+6fbf08059e6b29e99b6a4afd7146dc68 raylib/raylib/external/glfw/src/wayland-client-protocol-code.h
+640ced3085fa161363651860d4398d1d raylib/raylib/external/glfw/src/wayland-client-protocol.h
+28b35bc403a9a8fe82599bbe21f9ed64 raylib/raylib/external/glfw/src/xdg-activation-v1-client-protocol-code.h
+e3e9ec1cf61f3c0fcc2a8294a6f35471 raylib/raylib/external/glfw/src/xdg-activation-v1-client-protocol.h
+bbf84a9bce4c1d5fc4028c1def6a6f03 raylib/raylib/external/glfw/src/xdg-decoration-unstable-v1-client-protocol-code.h
+c4814eab776711e8ce1bfba11f8589b4 raylib/raylib/external/glfw/src/xdg-decoration-unstable-v1-client-protocol.h
+d09e3dbcabc1702ec5eefade4138a4f0 raylib/raylib/external/glfw/src/xdg-shell-client-protocol-code.h
+2d8244ed77dc430d5d5211e9a357eb79 raylib/raylib/external/glfw/src/xdg-shell-client-protocol.h
